@@ -1,0 +1,21 @@
+
+.blog{
+    background-color: burlywood;
+
+margin: 20px 12px;
+padding: 12px;
+
+border: 1px solid black;
+box-shadow: 5px 5px 8px 1px rgb(73, 68, 68);
+border-bottom-right-radius: 8px;
+}
+.blogpost-suggestion{
+    display: flex;
+   
+}
+.blogpost-suggestion img{
+    height: 120px;
+    width: 120px;
+    
+    align-self: center;
+}

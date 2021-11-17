@@ -1,0 +1,26 @@
+
+.contact h1{
+    /* border-bottom: 2px solid rgb(95, 30, 138); */
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.contact form{
+    height: auto;
+}
+
+form label{
+    font-size: 22px;
+}
+form input{
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 4px;
+}
+form textarea{
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 4px;  
+}
