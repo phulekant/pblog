@@ -1,0 +1,27 @@
+@media screen and (max-width:600px){
+    .navigation{
+        flex-direction: column;
+    }
+    .nav-left{
+        flex-direction: column;
+    }
+    .content img{
+        display: none;
+    }
+    .articles{
+        flex-direction: column;
+    }
+    .articles img{
+        align-self: center;
+    }
+    .blogpost-suggestion{
+        flex-direction: column;
+    }
+
+    
+}
+@media screen and (max-width:900px){
+    .blogpost-suggestion{
+        flex-direction: column;
+    }
+}
